@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "nox-maturin"
-version = "0.0.0"
+version = "0.0.1"
 description = "nox-maturin"
 authors = ["Kyle Oliver <56kyleoliver@gmail.com>"]
 license = "MIT"
